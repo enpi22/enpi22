@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @enpi22
-- 👀 I’m interested in web development 
+- 👀 I’m interested in eveyrthing that's related to computers
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
